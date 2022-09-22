@@ -1,0 +1,15 @@
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\bin\Debug\net6.0\Func委託.exe
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\bin\Debug\net6.0\Func委託.deps.json
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\bin\Debug\net6.0\Func委託.runtimeconfig.json
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\bin\Debug\net6.0\Func委託.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\bin\Debug\net6.0\Func委託.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\obj\Debug\net6.0\Func委託.csproj.AssemblyReference.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\obj\Debug\net6.0\Func委託.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\obj\Debug\net6.0\Func委託.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\obj\Debug\net6.0\Func委託.AssemblyInfo.cs
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\obj\Debug\net6.0\Func委託.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\obj\Debug\net6.0\Func委託.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\obj\Debug\net6.0\refint\Func委託.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\obj\Debug\net6.0\Func委託.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\obj\Debug\net6.0\Func委託.genruntimeconfig.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\Func委託\Func委託\obj\Debug\net6.0\ref\Func委託.dll
