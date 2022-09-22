@@ -1,0 +1,15 @@
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\bin\Debug\net6.0\Delegate委託.exe
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\bin\Debug\net6.0\Delegate委託.deps.json
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\bin\Debug\net6.0\Delegate委託.runtimeconfig.json
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\bin\Debug\net6.0\Delegate委託.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\bin\Debug\net6.0\Delegate委託.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\obj\Debug\net6.0\Delegate委託.csproj.AssemblyReference.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\obj\Debug\net6.0\Delegate委託.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\obj\Debug\net6.0\Delegate委託.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\obj\Debug\net6.0\Delegate委託.AssemblyInfo.cs
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\obj\Debug\net6.0\Delegate委託.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\obj\Debug\net6.0\Delegate委託.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\obj\Debug\net6.0\refint\Delegate委託.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\obj\Debug\net6.0\Delegate委託.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\obj\Debug\net6.0\Delegate委託.genruntimeconfig.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\Delegate委託\Delegate委託\obj\Debug\net6.0\ref\Delegate委託.dll
