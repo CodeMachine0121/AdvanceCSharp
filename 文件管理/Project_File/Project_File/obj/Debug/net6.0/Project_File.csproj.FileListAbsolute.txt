@@ -1,0 +1,15 @@
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\bin\Debug\net6.0\Project_File.exe
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\bin\Debug\net6.0\Project_File.deps.json
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\bin\Debug\net6.0\Project_File.runtimeconfig.json
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\bin\Debug\net6.0\Project_File.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\bin\Debug\net6.0\Project_File.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\obj\Debug\net6.0\Project_File.csproj.AssemblyReference.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\obj\Debug\net6.0\Project_File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\obj\Debug\net6.0\Project_File.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\obj\Debug\net6.0\Project_File.AssemblyInfo.cs
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\obj\Debug\net6.0\Project_File.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\obj\Debug\net6.0\Project_File.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\obj\Debug\net6.0\refint\Project_File.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\obj\Debug\net6.0\Project_File.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\obj\Debug\net6.0\Project_File.genruntimeconfig.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\文件管理\Project_File\Project_File\obj\Debug\net6.0\ref\Project_File.dll

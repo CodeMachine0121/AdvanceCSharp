@@ -1,0 +1,15 @@
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\bin\Debug\net6.0\FileInfo使用.exe
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\bin\Debug\net6.0\FileInfo使用.deps.json
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\bin\Debug\net6.0\FileInfo使用.runtimeconfig.json
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\bin\Debug\net6.0\FileInfo使用.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\bin\Debug\net6.0\FileInfo使用.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\obj\Debug\net6.0\FileInfo使用.csproj.AssemblyReference.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\obj\Debug\net6.0\FileInfo使用.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\obj\Debug\net6.0\FileInfo使用.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\obj\Debug\net6.0\FileInfo使用.AssemblyInfo.cs
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\obj\Debug\net6.0\FileInfo使用.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\obj\Debug\net6.0\FileInfo使用.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\obj\Debug\net6.0\refint\FileInfo使用.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\obj\Debug\net6.0\FileInfo使用.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\obj\Debug\net6.0\FileInfo使用.genruntimeconfig.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\FileInfo使用\FileInfo使用\obj\Debug\net6.0\ref\FileInfo使用.dll

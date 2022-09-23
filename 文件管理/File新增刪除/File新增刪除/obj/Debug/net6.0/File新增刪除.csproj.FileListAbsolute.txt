@@ -1,0 +1,15 @@
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\bin\Debug\net6.0\File新增刪除.exe
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\bin\Debug\net6.0\File新增刪除.deps.json
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\bin\Debug\net6.0\File新增刪除.runtimeconfig.json
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\bin\Debug\net6.0\File新增刪除.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\bin\Debug\net6.0\File新增刪除.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\obj\Debug\net6.0\File新增刪除.csproj.AssemblyReference.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\obj\Debug\net6.0\File新增刪除.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\obj\Debug\net6.0\File新增刪除.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\obj\Debug\net6.0\File新增刪除.AssemblyInfo.cs
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\obj\Debug\net6.0\File新增刪除.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\obj\Debug\net6.0\File新增刪除.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\obj\Debug\net6.0\refint\File新增刪除.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\obj\Debug\net6.0\File新增刪除.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\obj\Debug\net6.0\File新增刪除.genruntimeconfig.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\File新增刪除\File新增刪除\obj\Debug\net6.0\ref\File新增刪除.dll

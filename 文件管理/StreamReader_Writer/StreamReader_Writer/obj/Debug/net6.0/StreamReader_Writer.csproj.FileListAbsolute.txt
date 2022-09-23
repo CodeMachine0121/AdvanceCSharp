@@ -1,0 +1,15 @@
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\bin\Debug\net6.0\StreamReader_Writer.exe
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\bin\Debug\net6.0\StreamReader_Writer.deps.json
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\bin\Debug\net6.0\StreamReader_Writer.runtimeconfig.json
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\bin\Debug\net6.0\StreamReader_Writer.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\bin\Debug\net6.0\StreamReader_Writer.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\obj\Debug\net6.0\StreamReader_Writer.csproj.AssemblyReference.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\obj\Debug\net6.0\StreamReader_Writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\obj\Debug\net6.0\StreamReader_Writer.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\obj\Debug\net6.0\StreamReader_Writer.AssemblyInfo.cs
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\obj\Debug\net6.0\StreamReader_Writer.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\obj\Debug\net6.0\StreamReader_Writer.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\obj\Debug\net6.0\refint\StreamReader_Writer.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\obj\Debug\net6.0\StreamReader_Writer.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\obj\Debug\net6.0\StreamReader_Writer.genruntimeconfig.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\StreamReader_Writer\StreamReader_Writer\obj\Debug\net6.0\ref\StreamReader_Writer.dll

@@ -1,0 +1,15 @@
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\bin\Debug\net6.0\Directory操作.exe
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\bin\Debug\net6.0\Directory操作.deps.json
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\bin\Debug\net6.0\Directory操作.runtimeconfig.json
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\bin\Debug\net6.0\Directory操作.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\bin\Debug\net6.0\Directory操作.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\obj\Debug\net6.0\Directory操作.csproj.AssemblyReference.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\obj\Debug\net6.0\Directory操作.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\obj\Debug\net6.0\Directory操作.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\obj\Debug\net6.0\Directory操作.AssemblyInfo.cs
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\obj\Debug\net6.0\Directory操作.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\obj\Debug\net6.0\Directory操作.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\obj\Debug\net6.0\refint\Directory操作.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\obj\Debug\net6.0\Directory操作.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\obj\Debug\net6.0\Directory操作.genruntimeconfig.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\Directory操作\Directory操作\obj\Debug\net6.0\ref\Directory操作.dll

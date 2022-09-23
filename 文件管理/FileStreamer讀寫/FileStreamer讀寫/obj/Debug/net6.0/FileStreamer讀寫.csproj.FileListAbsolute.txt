@@ -1,0 +1,15 @@
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\bin\Debug\net6.0\FileStreamer讀寫.exe
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\bin\Debug\net6.0\FileStreamer讀寫.deps.json
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\bin\Debug\net6.0\FileStreamer讀寫.runtimeconfig.json
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\bin\Debug\net6.0\FileStreamer讀寫.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\bin\Debug\net6.0\FileStreamer讀寫.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\obj\Debug\net6.0\FileStreamer讀寫.csproj.AssemblyReference.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\obj\Debug\net6.0\FileStreamer讀寫.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\obj\Debug\net6.0\FileStreamer讀寫.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\obj\Debug\net6.0\FileStreamer讀寫.AssemblyInfo.cs
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\obj\Debug\net6.0\FileStreamer讀寫.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\obj\Debug\net6.0\FileStreamer讀寫.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\obj\Debug\net6.0\refint\FileStreamer讀寫.dll
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\obj\Debug\net6.0\FileStreamer讀寫.pdb
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\obj\Debug\net6.0\FileStreamer讀寫.genruntimeconfig.cache
+C:\Users\james\Desktop\Coding\AdvanceC#\FileStreamer讀寫\FileStreamer讀寫\obj\Debug\net6.0\ref\FileStreamer讀寫.dll
